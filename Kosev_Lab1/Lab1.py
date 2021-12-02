@@ -13,10 +13,10 @@ regularPolygonAreaCounter()
 elif(number == 2):
 print("Вызывается функция: cумма первых n положительных чисел")
 numberCounter()
-elif(number == "выход"):
+elif(number == "0"):
 break
 print("Ваше число не подходит по правилам!")
-print("Введите 'выход' для выхода из программы")
+print("Введите '0' для выхода из программы")
 
 
 def regularPolygonAreaCounter():
